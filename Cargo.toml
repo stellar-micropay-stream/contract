@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "contracts/escrow_contract",
+    "contracts/streaming_contract",
+]
+resolver = "2"
